@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gofilefix", "Gofilefix.csproj", "{017734FC-2A8F-4331-B07A-2DD2A056B193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFixMyName", "..\GoFixMyName\GoFixMyName.csproj", "{D4C3A7C5-1017-4081-91AA-05588B02F99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{017734FC-2A8F-4331-B07A-2DD2A056B193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017734FC-2A8F-4331-B07A-2DD2A056B193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017734FC-2A8F-4331-B07A-2DD2A056B193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017734FC-2A8F-4331-B07A-2DD2A056B193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C3A7C5-1017-4081-91AA-05588B02F99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C3A7C5-1017-4081-91AA-05588B02F99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C3A7C5-1017-4081-91AA-05588B02F99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C3A7C5-1017-4081-91AA-05588B02F99F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22F9E09A-40FE-436A-807D-A374BD850998}
+	EndGlobalSection
+EndGlobal
